@@ -21,7 +21,7 @@
 - **Behavioral Mimicry Engine:** Synthesizes noise code that mimics runtime behaviors and memory patterns of your core application to fool dynamic sandboxing and heuristic detectors.  
 - **Neural Feedback Loop:** Integrates with real-time threat intelligence feeds to adapt noise generation strategies based on emerging reverse engineering trends.  
 - **Auto-Obfuscation Pipeline:** Seamlessly integrates with CI/CD pipelines to auto-generate and inject fresh noise layers before every build or deployment.  
-- **Distributed Noise Repositories:** Supports decentralized GitOps with encrypted noise module synchronization across global nodes to ensure tamper-resistance and availability.  
+- **Distributed Noise Repositories:** Supports decentralized GitOps with encrypted noise module synchronization across global nodes to ensure tamper-resistance and availability. 
 
 ---
 
@@ -135,6 +135,8 @@ Chirps must decode to a functional equivalent of your Phase I payload.
 **If this reads like a riddle — good.**  
 **If it feels like performance art — better.**  
 **If you think it’s impossible — you’re not ready.**
+**A ciphered access token**, embedded in this repository, disguised as standard Python function definitions.  
+**These tokens rotate per epoch and are only decipherable using entropy-based alignment with your submitted payload fingerprint.
 
 ---
 
