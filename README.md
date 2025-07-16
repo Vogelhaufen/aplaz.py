@@ -21,7 +21,7 @@
 - **Behavioral Mimicry Engine:** Synthesizes noise code that mimics runtime behaviors and memory patterns of your core application to fool dynamic sandboxing and heuristic detectors.  
 - **Neural Feedback Loop:** Integrates with real-time threat intelligence feeds to adapt noise generation strategies based on emerging reverse engineering trends.  
 - **Auto-Obfuscation Pipeline:** Seamlessly integrates with CI/CD pipelines to auto-generate and inject fresh noise layers before every build or deployment.  
-- **Distributed Noise Repositories:** Supports decentralized GitOps with encrypted noise module synchronization across global nodes to ensure tamper-resistance and availability.  
+- **Distributed Noise Repositories:** Supports decentralized GitOps with encrypted noise module synchronization across global nodes to ensure tamper-resistance and availability. 
 
 ---
 
@@ -34,24 +34,109 @@
 5. **Secure GitOps Synchronization:** Uses end-to-end encrypted Git operations to securely propagate noise updates globally with blockchain-backed commit verification.
 
 ---
+## 🕳️ Secret Circle Access  
+*“Noise is a language. Obfuscation is an art. You are neither until proven otherwise.”*
 
-## 🌟 Secret Circle Access
+**Aplaz.py’s Secret Circle** is a sealed enclave of adversarial architects, protocol surrealists, and anti-pattern theorists.
 
-Aplaz.py’s **Secret Circle** is an elite collective of cybersecurity architects granted early access to future AI-powered obfuscation tech.
+No invites. No confirmations.  
+Only provable ingenuity.
 
-### How to join:
+---
 
-- Submit a cryptographically signed request through **one** of the following methods:  
-  - Encrypt your message using our public PGP fingerprint:  
-    `3F2A 7B9C 5D1E 8A6F C2B4 9E7D 1A3B 4C5D 6E7F 8A90`  
-  - Create a GitHub issue or pull request on this repository with an AES-256 encrypted payload as proof of your expertise.  
-  - Send a minimal test transaction with the memo `"NoiseArchitect2025"` to our public Ethereum address:  
-    `0xDEADBEEFDEADBEEFDEADBEEFDEADBEEFDEADBEEF`
+### 🧪 Initiation Sequence — Triptych Verification Protocol (TVP)
 
-Membership grants access to private AI models, advanced noise generation plugins, and zero-trust collaboration channels.
+To be considered, you must complete **all three** of the following phases. Each one tests a different class of mastery.
 
-*Prove your mastery. Earn your place.*
+---
 
+### 🧩 Phase I — Entropic Signature via Codeform Dissonance
+
+Submit a self-rewriting Python payload that meets the following:
+
+- On each execution:
+  - Rewrites its **AST** to maintain identical behavior with entropy > 0.92
+  - Obfuscates control flow using **parameterized noise injection (PNI)**
+  - Embeds a hidden message using **Unicode homoglyphs** in variable names
+
+- The payload must:
+  - Include a dormant second-stage routine triggered by a **Van Eck phreaking pattern** sourced from `/dev/random`
+  - Exfiltrate its execution trace via covert DNS using a ChaCha20 domain list (DL20)
+
+Submit as a GitHub Pull Request titled:
+
+[Signal Injection] ∴ {base32(timestamp)} | {SHA3-512(payload)}
+
+
+---
+
+### 🔏 Phase II — Temporal Cipher Oracle (TCO)
+
+Deploy a smart contract on any Ethereum L2 that:
+
+- Accepts a **Merkle root** of your proof payload
+- Performs **ZK Range Proofs** on on-chain gas usage
+- Emits a unique event with log value derived from:
+
+keccak256(commitment) XOR PoseidonHash(epoch-seed, gas_used)
+
+
+Also include:
+
+- A Groth16 zkSNARK proving knowledge of:
+  - Input randomness from Phase I
+  - AST transformation logic over 3 entropy cycles
+
+Submit a `.apz` archive in a GitHub issue, signed with your **TUF-compliant** metadata key.
+
+---
+
+### 📡 Phase III — Analog Signal Verification (ASV)
+
+Transmit a 13.56 MHz RFID burst from an ISO14443-A device containing:
+
+- `SHA256(GitHub_handle) XOR HKDF(memmap(dmesg[13:37]) + last_seen(icmp6))`
+- A 64-byte ed25519 signature encoded in **Manchester modulation**
+- Synchronized to a local 60Hz power hum
+
+Steps:
+
+1. Capture the RF burst with HackRF, USRP, or Flipper Zero  
+2. Demodulate using `liquid-dsp`  
+3. Upload `.iq` baseband as a ZIP archive to a **GitHub Discussion** titled:  
+
+FreqSig#2137 ::{handle}::[Verified]
+
+
+---
+
+### 🧨 Optional: Black-Level Bonus Path
+
+Submit a `.flac` file (<30s) containing:
+
+- Execution of Phase I encoded as **ultrasonic chirps**  
+- Modulated with **differential QPSK** and passed through a **256-bit reverb cascade**  
+- Metadata encrypted with **AES-XTS + modified TEA** in ID3v2 tags
+
+Chirps must decode to a functional equivalent of your Phase I payload.
+
+---
+
+### 🧬 Members Receive:
+
+- Access to internal Aplaz interpreters (e.g. `necro_eval`, `forkglitch.py`)
+- Zero-trust RAM-only containers for red team obfuscation drills
+- Invitations to inference-time **noise injection tournaments**
+- Drops of polymorphic AI-generated malware-likeness datasets
+- Tunnel access to `.signull` mesh relay (IP-less identity-based routing)
+- A ciphered access token**, embedded in this repository, disguised as standard Python function definitions.
+- These tokens rotate per epoch and are only decipherable using entropy-based alignment with your submitted payload fingerprint.
+
+---
+
+**If this reads like a riddle — good.**  
+**If it feels like performance art — better.**  
+**If you think it’s impossible — you’re not ready.**
 ---
 
 ## 🚨 Disclaimer
